@@ -1,4 +1,10 @@
-### Hi there 👋
+Full stack developer at [IFMSA-NL](https://github.com/IFMSA-NL)
+
+Contributed to:
+- [Umami](https://github.com/mikecao/umami) - a simple alternative to Google Analytics
+- [Directus](https://github.com/directus/directus) - a wonderful open source CMS with everything you need attached
+- [Lucide](https://github.com/lucide-icons/lucide) - a welcoming community-run continuation of [Feather icons](https://github.com/feathericons/feather)
+- [Postcss combine duplicated selectors](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors) - a PostCSS plugin that does what it says on the tin
 
 <!--
 **MoltenCoffee/MoltenCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
